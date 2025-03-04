@@ -1,0 +1,1 @@
+This project serves as a hands-on exploration of algorithms, models, and techniques, integrating theoretical learning with practical applications
